@@ -1,0 +1,82 @@
+[
+  {
+    "question": "How do I reset my student portal password?",
+    "answer": "Visit the IT Helpdesk at Room 101, Block A, or email support@university.edu with your enrollment number. Password resets are typically processed within 2 working hours."
+  },
+  {
+    "question": "What are the library timings?",
+    "answer": "The central library is open Monday to Saturday from 8:00 AM to 9:00 PM, and Sunday from 10:00 AM to 5:00 PM. It remains closed on gazetted public holidays."
+  },
+  {
+    "question": "How do I apply for a fee concession?",
+    "answer": "Download the Fee Concession Application Form from the Student Portal under 'Finance > Concessions'. Submit the filled form along with relevant income/category certificates to the Accounts Office, Ground Floor, Admin Block, before the deadline specified each semester."
+  },
+  {
+    "question": "When is the last date to submit assignments?",
+    "answer": "Assignment deadlines vary by course and semester. Please check your course page on the Student Portal or contact your respective subject faculty directly for updated deadlines."
+  },
+  {
+    "question": "How do I register for elective courses?",
+    "answer": "Elective registration opens during the course registration window each semester. Log in to the Student Portal, navigate to 'Academics > Course Registration', and select your preferred electives based on available seats and prerequisites."
+  },
+  {
+    "question": "What is the attendance requirement to appear for exams?",
+    "answer": "A minimum of 75% attendance per subject is mandatory to be eligible for semester-end examinations. Students below 65% are detained. Those between 65–74% may apply for a medical condonation with valid documentation."
+  },
+  {
+    "question": "How do I get a bonafide certificate?",
+    "answer": "Apply for a bonafide certificate through the Student Portal under 'Certificates > Bonafide'. Processing takes 3–5 working days. Collect the physical copy from the Academic Section, first floor, Admin Block."
+  },
+  {
+    "question": "What are the hostel application procedures?",
+    "answer": "Hostel applications are accepted at the start of each academic year. Fill out the Hostel Allotment Form on the Student Portal and upload required documents (ID proof, parent contact). Allotments are based on distance from home city and academic merit."
+  },
+  {
+    "question": "How do I report a technical issue with the Student Portal?",
+    "answer": "Report technical issues by emailing itgrievance@university.edu or by calling the IT helpdesk at +91-XXXX-XXXXXX during working hours (9 AM – 5 PM, Mon–Fri). Include a screenshot and your enrollment number in the email."
+  },
+  {
+    "question": "Where can I find the academic calendar?",
+    "answer": "The academic calendar is available on the university's official website under the 'Academics' section, as well as on the Student Portal dashboard. It lists all examination dates, holidays, and registration windows."
+  },
+  {
+    "question": "How do I apply for a scholarship?",
+    "answer": "Visit the Scholarships section on the Student Portal under 'Finance > Scholarships'. Available scholarships include merit-based, need-based, and government schemes. Ensure you meet the eligibility criteria and submit applications before the specified closing date."
+  },
+  {
+    "question": "What is the procedure for changing my branch or department?",
+    "answer": "Branch change requests are entertained only at the end of the first year, subject to seat availability and a minimum CGPA of 8.5. Submit a formal application to the Dean of Academics within the notified window period."
+  },
+  {
+    "question": "How do I access my exam hall ticket?",
+    "answer": "Hall tickets are made available on the Student Portal under 'Examinations > Hall Ticket' approximately 7–10 days before the exam schedule begins. Download and print two copies; one will be collected at the examination hall."
+  },
+  {
+    "question": "How are internal assessment marks calculated?",
+    "answer": "Internal assessment marks are typically split across class tests (40%), assignments (30%), and attendance/participation (30%), though this may vary by department. Refer to the course syllabus document for exact weightages."
+  },
+  {
+    "question": "Who do I contact for mental health support?",
+    "answer": "The university has a dedicated Student Counselling Centre located in Block C, Room 204. Walk-in sessions are available Tuesday and Thursday, 10 AM – 1 PM. You may also book a confidential appointment via counselling@university.edu."
+  },
+  {
+    "question": "How do I get my transcripts issued?",
+    "answer": "Transcript requests can be made via the Student Portal under 'Certificates > Transcripts'. Specify whether you need official sealed transcripts (for foreign universities) or regular copies. Processing time is 7–10 working days. A nominal fee applies per copy."
+  },
+  {
+    "question": "What sports and extracurricular facilities are available?",
+    "answer": "The campus has a fully equipped gymnasium, indoor badminton and table tennis courts, an outdoor cricket ground, a basketball court, and a swimming pool. The Cultural Committee and Sports Committee run annual fests open to all enrolled students."
+  },
+  {
+    "question": "How do I submit a grievance against a faculty member?",
+    "answer": "Formal grievances against faculty can be submitted through the Student Grievance Portal under 'Grievances > Academic'. Submissions are confidential and reviewed by the Internal Complaints Committee within 15 working days."
+  },
+  {
+    "question": "Is there a placement cell and how do I register?",
+    "answer": "Yes, the Training and Placement Office (TPO) coordinates campus recruitments. Register by logging into the Placement Portal linked from the Student Portal homepage. Keep your resume and academic documents updated for recruiter shortlisting."
+  },
+  {
+    "question": "What happens if I fail a subject?",
+    "answer": "If you fail a subject, you may appear for the supplementary examination held at the end of the academic year. Repeated failures may attract backlog policies as per university regulations. Consult your academic advisor or the Examinations Department for your specific situation."
+  }
+]
