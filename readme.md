@@ -16,7 +16,7 @@ In this project, no ML model is used in the traditional sense of the term since 
 # Project Directory (Textual Format)
 <img width="237" height="356" alt="image" src="https://github.com/user-attachments/assets/dc88080c-133e-460e-909a-317695692682"/>
 
-# Running Instructions
+# Instructions To Execute
 1. Organise each and every file in this repo according to the screenshot of the project directory attached above in exactly that order.
 2. Set up the Python virtual environment (```venv```) in the Terminal and install the libraries by running the command ```pip install -r requirements.txt```.
 3. Run the command ```python app.py```. The Terminal will return ```http://127.0.0.1:8080```; Copy paste that link in any web browser to open the chatbot.
